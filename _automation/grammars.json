@@ -169,8 +169,8 @@
       "parser.c",
       "scanner.c"
     ],
-    "reference": "annotation-comma",
-    "revision": "5761422483589ae0b0f05fe4085ef8c40df81863",
+    "reference": "5761422483589ae0b0f05fe4085ef8c40df81863",
+    "revision": "",
     "updateBasedOn": "commit"
   },
   {
