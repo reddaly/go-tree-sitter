@@ -164,14 +164,14 @@
   },
   {
     "language": "kotlin",
-    "url": "https://github.com/fwcd/tree-sitter-kotlin",
+    "url": "https://github.com/reddaly/tree-sitter-kotlin",
     "files": [
       "parser.c",
       "scanner.c"
     ],
-    "reference": "0.3.8",
-    "revision": "e1a2d5ad1f61f5740677183cd4125bb071cd2f30",
-    "updateBasedOn": "tag"
+    "reference": "annotation-comma",
+    "revision": "5761422483589ae0b0f05fe4085ef8c40df81863",
+    "updateBasedOn": "commit"
   },
   {
     "language": "lua",
